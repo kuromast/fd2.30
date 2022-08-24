@@ -1,7 +1,7 @@
 export default {
     async fetch(request, env) {
-      const SingleDay = 'guaoo.herokuapp.com'
-      const DoubleDay = 'yamahas.herokuapp.com'
+      const SingleDay = 'fanoi.herokuapp.com'
+      const DoubleDay = 'jiaogi.herokuapp.com'
       let host = ''
       let nd = new Date();
       if (nd.getDate()%2) {
