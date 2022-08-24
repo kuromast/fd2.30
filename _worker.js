@@ -1,4 +1,4 @@
-xport default {
+export default {
     async fetch(request, env) {
       const SingleDay = 'guaoo.herokuapp.com'
       const DoubleDay = 'yahamas.herokuapp.com'
